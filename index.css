@@ -1,0 +1,155 @@
+.a{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(94, 6, 138);
+}
+#b{
+    margin-left: 400px;
+}
+#c{
+    margin-left: 135px;
+    width: 275px;
+    height: 78px;
+}
+#n{
+    width: 100%;
+    height: 475px;
+} 
+#d{
+    position:sticky;
+    top: 0px;
+}
+.slider-content{
+    position:relative;
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+}
+#j{
+    margin-top: -150px;
+    text-align: center;
+}
+#img{
+    margin-top: 80px;
+}
+#f1{
+    margin-top: 100px;
+}
+.btn{
+    height: 63px;
+    width:  162px;
+    border:solid 2px rgb(94, 6, 138);
+    margin-top: 50px;
+    border-radius: 67PX;
+    background-color: rgb(94, 6, 138);
+    color: white;
+}
+.btn:hover{
+    background-color: white;
+    color: rgb(94, 6, 138);
+}  
+#u2{
+    background-color:#f7f7f5;
+    height: 700px;
+    width: 100%;
+    text-align: center;  
+}
+#q1:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+#q2:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
+}
+h1{
+    color: rgb(94, 6, 138);
+}
+h4{
+    color: rgb(100, 21, 139);
+
+}
+#h1{
+    color: rgb(94, 6, 138);
+    margin-top: 100px;
+}
+#kl{
+    height: 368px;
+    width: 980px;
+}
+#io{
+    height: 360px;
+    width: 470px;
+}
+#z1{
+    margin-left: -450px;
+    border: rgb(94, 6, 138);
+    background-color: rgb(94, 6, 138);
+    border-radius: 47px;
+    color:white;
+    padding: 20px
+}
+#z1:hover{
+    background-color: rgb(128, 12, 170);
+    color: white;
+}
+#e1{
+    margin-top: 100px;
+    margin-left: -22px;
+    height: 497px;
+    width: 800px;
+}
+#e1:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+#e2{
+    margin-top: -496px;
+    margin-left: 369px;
+    height: 500px;
+    width: 600px;
+}
+#e2:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+#e3{
+    margin-top: -499px;
+    margin-left: 764px;
+    height: 500px;
+    width: 600px;
+}
+#e3:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.card-title{
+    color:rgb(94, 6, 138);
+
+}
+.r1{
+    margin-left: -144px;
+    height: 16%;
+    width: 150px;
+    color: white;
+    background-color: rgb(94, 6, 138);
+    border: rgb(94, 6, 138);
+}
+#p1{
+    margin-top: 62px;
+    border-color: rgb(94, 6, 138);
+    background-color: white;
+    border-radius: 35px;
+    color:rgb(94, 6, 138);
+    padding: 19px
+}
+#p1:hover{
+    color: white;
+    background-color: rgb(94, 6, 138);
+}
+#p13{
+    background-color: rgb(94, 6, 138);
+}
+#p13:hover{
+    background-color: rgb(128, 12, 170);
+}
+
